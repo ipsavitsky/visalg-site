@@ -2,7 +2,7 @@
 title: Процессор
 description: 
 published: true
-date: 2022-02-20T11:32:31.501Z
+date: 2022-03-14T21:27:59.363Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-10T13:24:16.127Z

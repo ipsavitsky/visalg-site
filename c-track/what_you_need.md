@@ -2,7 +2,7 @@
 title: Как настроить рабочее окружение
 description: 
 published: true
-date: 2022-02-20T16:52:46.923Z
+date: 2022-03-14T21:28:07.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-19T20:51:32.663Z

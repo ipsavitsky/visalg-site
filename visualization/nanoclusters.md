@@ -2,7 +2,7 @@
 title: Симуляция нанокластеров
 description: 
 published: true
-date: 2022-02-20T11:32:34.778Z
+date: 2022-03-14T21:28:01.913Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-12T15:04:31.017Z

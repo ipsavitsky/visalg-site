@@ -2,7 +2,7 @@
 title: Что такое errno и с чем это едят
 description: 
 published: true
-date: 2022-02-20T11:32:05.594Z
+date: 2022-03-14T21:27:42.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-10T09:07:30.930Z
