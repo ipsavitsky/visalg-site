@@ -2,7 +2,7 @@
 title: Как сдавать задания
 description: 
 published: true
-date: 2022-03-14T21:28:36.927Z
+date: 2022-03-17T18:04:33.124Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-14T20:50:19.484Z

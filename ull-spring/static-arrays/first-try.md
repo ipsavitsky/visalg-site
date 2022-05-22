@@ -2,7 +2,7 @@
 title: Пробуем массивы на вкус
 description: 
 published: true
-date: 2022-03-14T21:28:29.776Z
+date: 2022-03-17T18:04:21.629Z
 tags: задача
 editor: markdown
 dateCreated: 2022-03-14T09:47:10.751Z

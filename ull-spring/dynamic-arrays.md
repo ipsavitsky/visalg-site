@@ -2,7 +2,7 @@
 title: Динамические массивы
 description: Что делать если количество элементов массива заранее неизвестно
 published: true
-date: 2022-03-14T21:28:24.839Z
+date: 2022-03-17T18:04:15.585Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T19:22:59.192Z
@@ -49,3 +49,4 @@ end.
 
 # Задачи
  - [Строки или массивы символов](/ull-spring/dynamic-arrays/string-or-char-array)
+ - [Среднее количество осадков](/ull-spring/dynamic-arrays/average-weather)

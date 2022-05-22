@@ -2,7 +2,7 @@
 title: Как писать тесты на свой код
 description: 
 published: true
-date: 2022-03-14T21:27:44.891Z
+date: 2022-03-17T18:03:28.806Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-10T09:10:26.105Z

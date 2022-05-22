@@ -2,7 +2,7 @@
 title: Игра жизни
 description: 
 published: true
-date: 2022-03-14T21:27:52.028Z
+date: 2022-03-17T18:03:37.346Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-10T09:52:33.155Z
